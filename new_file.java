@@ -1,6 +1,6 @@
 public class new_file{
    public static void main(String[] args){
-      System.out.println("I have now created an new branch and this is my second edit.");
+      System.out.println("Trying to create a conflict.");
    }
 }
 
